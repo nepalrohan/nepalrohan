@@ -16,7 +16,7 @@ I'm a **Computer Science student** passionate about crafting seamless and effici
 
 ### 🌟 **What I’m Working On**:
 - Building dynamic web applications with **React** and **Next.js**
-- Strengthening my backend knowledge with **Node.js** and **Express**
+- Strengthening my backend knowledge with **Node.js**,**Express** and **GraphQL**
 - Managing databases with **MongoDB** and **PostgreSQL**
 
 ---
