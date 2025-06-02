@@ -8,7 +8,7 @@ I'm a **Computer Science student** passionate about crafting seamless and effici
 
 ### 💻 **Tech Stack**:
 - **Frontend**: React, Next.js, HTML5, CSS3, JavaScript (ES6+), Typescript
-- **Backend**: Node.js, Express, REST APIs, Graphql
+- **Backend**: Node.js, Express, REST APIs, Graphql, Django, DRF
 - **Databases**: MongoDB, PostgreSQL, SQL, Redis
 - **Other**: Git, GitHub, Agile Methodologies, Docker
 
