@@ -38,9 +38,12 @@ I’m a **Frontend-focused Software Engineer** with hands-on experience in craft
 
 ### 📊 **GitHub Stats & Language Usage**  
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nepalrohan&show_icons=true&theme=radical)  
+### 📊 GitHub Stats & Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nepalrohan&layout=compact&langs_count=8&theme=radical)  
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nepalrohan&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nepalrohan&layout=compact&langs_count=6&theme=tokyonight)
+ 
 
 ---
 
